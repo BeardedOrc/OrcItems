@@ -1,0 +1,5 @@
+name: OrcItems
+version: ${project.version}
+main: me.beardedorc.orcitems.OrcItems
+authors: [Defyled]
+description: Orc Custom Items
